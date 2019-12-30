@@ -1,0 +1,557 @@
+@media(max-width:1198px){
+
+}
+@media screen and (min-width: 992px) and (max-width: 1199px) { 
+    .header .navbar-default .navbar-nav > li > a {
+        font-size: 14px;
+        padding: 21px 0px 13px 24px;
+    }
+    .same-four {
+    width: 49%;
+    display: inline-block;
+    padding: 40px 0px;
+}
+    .same-heading h1 {
+        font-size: 21px;
+    }
+    .same-heading p {
+        margin-top: 25px;
+    }
+    .four-same-txt p {
+        font-size: 13px;
+    }
+    .four-padding {
+        padding: 29px 0px;
+    }
+    .section-first .most-popular h1 {
+        font-size: 45px;
+    }
+    .section-first .most-popular p {
+        font-size: 19px;
+    }
+    .section-first .most-popular h4 {
+        font-size: 15px;
+    }
+    .section-first .most-popular {
+        padding: 272px 0px;
+    }
+    .partner img {
+        display: inline;
+        padding: 0px 0px; 
+        width: 17%;
+        margin: 0 1%;
+    }
+    .footer-icon p i{
+        margin-right: 8px;
+    }
+} 
+@media(max-width:991px){
+    .section-first .most-popular {
+        padding: 195px 0px;
+    }
+    .section-six.section-for-bg {
+    padding: 68px 0;
+    }
+    .section-seven {
+    padding: 12px 0px 40px 0px;
+}
+    .section-first .most-popular h1 {
+        font-size: 39px;
+    }
+    .section-first .most-popular p {
+        font-size: 17px;
+    }
+    .section-first .most-popular h4 {
+        font-size: 13px;
+    }
+    .same-four {
+    width: 49%;
+    display: inline-block;
+    padding: 20px 0px;
+}
+    .same-about-txt {
+        margin: 30px 0px 0px 0px;
+        min-height: 288px;
+    }
+    .section-three h1 {
+        font-size: 23px;
+
+    }
+    section-three p {
+        font-size: 14px;
+    }
+    .same-heading h1 {
+        font-size: 21px;
+        line-height: 32px;
+    }
+    .same-heading h1 span{
+        border-bottom: none;
+    }
+    .four-same-icon i {
+        font-size: 21px;
+    }
+    .four-same-icon {
+        padding: 21px 0px;
+    }
+    .four-same-txt h5 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .four-same-txt p {
+        font-size: 13px;
+        margin-top: 6px;
+        line-height: 20px;
+    }
+    .four-padding {
+        padding: 22px 0px;
+    }
+    .same-heading p {
+        font-size: 14px;
+        margin-top: 16px;
+    }
+    .section-five .same-heading a {
+        margin-top: 20px;
+    }
+    .section-six .same-heading h1 {
+        font-size: 23px;
+        line-height: 37px;
+    }
+    .section-eight {
+        padding: 20px 0px 46px 0px;
+    }
+    .nine-same-sec h3 {
+        font-size: 17px;
+        line-height: 23px;
+    }
+    .section-nine {
+        padding: 47px 0px 19px 0px;
+    }
+    .section-ten {
+        padding: 50px 0px 61px 0px;
+    }
+    .partner img {
+        width: 19%;
+    }
+    .partner {
+        padding-top: 30px;
+    }
+    .footer {
+        padding: 60px 0px 50px 0px;
+    }
+    .footer .fotter-sec-one p {
+        font-size: 13px;
+    }
+    .footer-same.fotter-sec-two ul li a {
+        font-size: 12px;
+    }
+    .footer .fotter-sec-three p {
+        font-size: 13px;
+    }
+    .mainLoginInput {
+        height: 37px;
+    }
+
+
+    .footer-icon p i {
+        width: 23px;
+        height: 23px;
+        font-size: 11px;
+        line-height: 23px;
+        margin-right: 7px;
+
+    }.contact {
+    position: relative;
+    top: 67px;
+    margin-bottom: 67px;
+}
+.contact-left {
+    min-height: 618px;
+}
+.contact-right {
+    min-height: 612px;
+    padding: 97px 6px 51px 57px;
+}
+
+.contact-left-text p {
+    font-size: 13px;
+}
+}
+@media screen and (min-width: 768px) and (max-width: 991px) { 
+
+
+    .header .navbar-default .navbar-nav > li > a {
+        font-size: 10px;
+        padding: 21px 0px 13px 18px;
+    }
+}
+@media(max-width:768px){
+
+}
+@media(max-width:767px){
+    .header .hamburger{
+        display: block;
+    }
+    .section-five .same-heading h1, .section-five .same-heading p ,.section-six .same-heading h1, .section-six .same-heading p{
+    text-align: center;
+}
+.nine-same-sec .img-responsive{
+    width: 100%;
+}
+.link{
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+    .section-first .most-popular h1 {
+        font-size: 36px;
+    }
+    .review {
+    margin-top: 63px;
+    width: auto;
+    margin-bottom: 30px;
+}
+.btm-img .man-txt{
+    display: block;
+    margin: 0 auto;
+}
+    .section-first .most-popular {
+        padding: 183px 0px;
+    }
+    .welcome .wel-p span {
+        display: inline;
+    }
+    .same-about-txt {
+        margin: 30px 0px 62px 0px;
+        min-height: 188px;
+    }
+    .welcome {
+        padding: 70px 0px 14px 0px;
+    }
+    .section-three a {
+        float: none;
+        display: inline-block;
+        margin-top: 26px;
+
+    }
+    .section-four {
+        background: #fff;
+        padding: 47px 0px 0px 0px;
+    }
+    .same-heading p span {
+        display: inline;
+    }
+    .nopadding {
+        padding: 0px 15px !important;
+    }
+    .section-seven-image .nopadding {
+        padding: 0px !important;
+    }
+    .four-same-icon {
+    padding: 4px 10px;
+    display: inline-grid;
+    min-width: 56px;
+    align-items: center;
+        min-height: 52px;
+}
+.same-four {
+    width: 100%;
+    display: inline-flex;
+    padding: 20px 0px;
+}
+    .four-same{
+        margin-bottom: 20px;
+    }
+    .four-menu {
+        padding: 70px 0px 10px 0px;
+    }
+    .same-heading h1 {
+        margin-top: 16px !important;
+    }
+    .section-six {
+        background: #34addd;
+        padding: 23px 0px;
+    }
+    .section-six-same p {
+        margin-bottom: 52px;
+    }
+    .section-six-same i{
+        margin-top: 20px;
+    }
+    .section-seven {
+        padding: 0px 0px 40px 0px;
+    }
+    .btm-img h3 {
+        margin: 17px 0px 3px 0px;
+        font-size: 16px;
+
+    }
+    .section-nine {
+        padding: 11px 0px 19px 0px;
+    }
+    .nine-same-sec p {
+        margin-bottom: 23px;
+    }
+    .footer {
+        padding: 18px 0px 50px 0px;
+    }
+    .footer .fotter-sec-one p {
+    margin-top: 18px;
+    font-size: 15px;
+}
+    .footer .same-heading h1, .fotter-sec-three .same-heading h1{
+        margin-top: 36px;
+    }
+    .footer .same-heading{
+        padding-bottom: 20px;
+    }
+    .footer-icon p i {
+        width: 33px;
+        height: 33px;
+        font-size: 16px;
+        line-height: 31px;
+        margin-right: 7px;
+    }
+    .section-six .same-heading img{
+        margin: 0 auto;
+        display: block;
+        padding: 20px 0px;
+    }
+    .section-three.section-for-bg {
+    padding: 50px 0;
+}
+.footer-same.fotter-sec-two ul {
+    margin-top: 16px;
+    padding-left: 0px;
+}
+.footer .fotter-sec-three .address1 {
+    margin-top: 24px;
+    font-size: 14px;
+}
+.footer-same.fotter-sec-two ul li a {
+    font-size: 15px;
+}
+.footer .fotter-sec-three p {
+    font-size: 15px;
+}
+.footer .fotter-sec-three h5 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+.contact-pic {
+    left: -97px;
+    top: -1px;
+    width: 60px;
+}
+.contact-left-text {
+     margin-left: 100px;
+     text-align: left;
+}
+.contact-left {
+    min-height: 506px;
+    padding: 43px 15px;
+    margin-top: 36px;
+}
+.noleft {
+   padding: 0px 15px;
+}
+}
+@media(max-width:560px){
+    .header_up p {
+        display: block;
+        text-align: center;
+    }
+    .same-four {
+    width: 100%;
+    display: block;
+    padding: 10px 0px;
+}
+    .sidenav a {
+    font-size: 14px;
+    padding: 8px 8px 11px 32px;
+    }
+    .header_up h1 {
+        display: inline;
+        float: none; 
+        text-align: center;
+        margin-top: 12px;
+    }
+    .header_up .icon {
+        display: block;
+    }
+    .header {
+        top: 93px;
+    }
+    .fixed_header{
+        top: 0px;
+    }
+    .section-first .most-popular {
+        padding: 198px 0px 100px 0px;
+    }
+    .section-first .most-popular h1 {
+        font-size: 27px;
+    }
+    .section-first .most-popular p {
+        font-size: 14px;
+    }
+    .section-first .most-popular h4 span {
+        display: inline;
+    }
+    .section-first .most-popular h4 {
+        font-size: 13px;
+        line-height: normal;
+    }
+    .section-first .most-popular h5 a {
+        font-size: 11px;
+        padding: 8px 41px;
+    }
+    .welcome {
+        padding: 34px 0px 0px 0px;
+    }
+    .welcome h1 span{
+        border: none;
+    }
+    .welcome .wel-p {
+        margin-top: 29px;
+    }
+    .same-heading h1 {
+        margin-top: 0;
+        font-size: 19px;
+        line-height: 28px;
+    }
+    .section-four .same-heading .heading45  {
+        margin-top: 0;
+        font-size: 19px;
+        line-height: 28px;
+        padding: 0px 10px;
+    }
+    .section-four .same-heading p {
+        font-size: 14px;
+        margin-top: 16px;
+        padding: 0px 10px;
+    }
+    .four-menu {
+        padding: 25px 0px 10px 0px;
+    }
+    .four-same-icon {
+        margin-bottom: 10px;
+    }
+    .four-padding {
+        padding: 7px 0px;
+    }
+    .section-eight {
+        padding: 20px 0px 33px 0px;
+    }
+    .section-nine {
+        padding: 30px 0px 10px 0px;
+    }
+    .section-eight {
+        padding: 20px 0px 33px 0px;
+    }
+    .nine-bottom {
+        padding: 31px 0px;
+    }
+    .section-five {
+    padding: 33px 0px 40px 0px;
+}
+.section-six.section-for-bg {
+    padding: 41px 0;
+}
+.contact-right {
+    padding: 50px 6px 34px 6px;
+}
+.contact-right p {
+    font-size: 17px;
+}
+.contact-left {
+    min-height: 469px;
+   
+
+
+}
+}
+@media(max-width:414px){
+    .footer .fotter-sec-one p {
+    margin-top: 18px;
+  
+    font-size: 13px;
+}
+.footer .fotter-sec-three h5 {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+.footer .fotter-sec-three p {
+    font-size: 13px;
+}
+    .section-first .most-popular h5 a {
+        font-size: 11px;
+        padding: 8px 23px;
+        margin-right: 14px;
+    }
+    .footer .fotter-sec-three .address1 {
+    margin-top: 27px;
+}
+    .section-first .most-popular h1 {
+        font-size: 21px;
+    }
+    .section-first .most-popular p {
+        font-size: 11px;
+    }
+    .section-first .most-popular h4 {
+        font-size: 11px;
+        line-height: normal;
+    }
+    .welcome h1 {
+        font-size: 26px;
+    }
+    .same-about-txt {
+        margin: 30px 0px 62px 0px;
+        min-height: 229px;
+    }
+    .section-three p {
+        font-size: 13px;
+        margin-top: 10px;
+    }
+    .section-three h1 {
+        font-size: 19px;
+        line-height: 25px;
+    }
+    .section-three {
+        padding: 25px 0px;
+    }
+    .section-three a {
+        font-size: 10px;
+        padding: 6px 26px;
+    }
+    .section-four .same-heading .heading45 {
+   font-size: 16px;
+    padding: 0px 9px;
+    line-height: 21px;
+}
+.same-heading h1 {
+   font-size: 20px;
+   line-height: 21px;
+}
+.section-five .same-heading h1{
+    margin-top: 20px;
+}
+.section-six .same-heading h1 {
+    font-size: 20px;
+    line-height: 25px;
+}
+.nine-bottom {
+    padding: 23px 0px 0px 0px;
+}
+.partner img {
+    width: 28%;
+    margin: 6px;
+}
+.last-footer P {
+    font-size: 11px;
+}
+.last-footer {
+   padding: 18px 0px;
+}
+}
+@media(max-width:320px){
+
+}
